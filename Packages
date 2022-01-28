@@ -1,0 +1,33 @@
+Package: com.hackyouriphone.aquaboard
+Version: 1.0-21
+Architecture: iphoneos-arm
+Maintainer: IBMPC <apple.false@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 5.0)
+Conflicts: com.fuyuchi.unlockize
+Filename: ./debs/com.hackyouriphone.aquaboard_1.0-21.deb
+Size: 86128
+MD5sum: b4bf7bbd80928a8ae884478905dc141f
+SHA1: 9fc8441850b11daaa9cb19477edfc90eb5550b0d
+SHA256: 4408be6332b387237bc5b2b9b4fed98d11f41d5eb8825549e61d62b66a95df17
+Section: Tweaks
+Description: Amazing Water Effects On SpringBoard
+Author: Elias Limneos <repo@hackyouriphone.org>
+Depiction: http://1bmpc.github.io/repo/depictions/?p=com.hackyouriphone.aquaboard_1.0-21
+Name: AquaBoard - Liquid SpringBoard
+
+Package: com.hackyouriphone.auxo
+Version: 1.4.1-83
+Architecture: iphoneos-arm
+Maintainer: IBMPC <apple.false@gmail.com>
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.hackyouriphone.auxo_1.4.1-83.deb
+Size: 1886868
+MD5sum: 93ccec34bb6aae66d654bd78de7d60f7
+SHA1: 8091c9f1839d57676a3f03f71b24d0c02bf43e18
+SHA256: a56c021dba599ff0c27f07a7b98b09787aa5dba628dec34679d56e6be28c0fe5
+Section: HYI - Tweaks
+Description: A bleeding edge, nightly beta of the popular app switcher, Auxo.
+Author: A³tweaks <repo@hackyouriphone.org>
+Depiction: https://1bmpc.github.io/repo/depictions/?p=com.hackyouriphone.auxo_1.4.1-83
+Name: Auxo
+

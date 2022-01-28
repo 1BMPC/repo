@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://https://twitter.com/ibmpc5150</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Subscribe to my YouTube channel</name>
+			<url>https://www.youtube.com/channel/UC22CtaApOau94w_ghfzt1YA</url>
+			<iconclass>fa fa-youtube-play</iconclass>
+		</link>
+		<link>
+			<name>Join my Discord server</name>
+			<url>https://discord.gg/GQvj3CtzFV</url>
+			<iconclass>fab fa-discord</iconclass>
+		</link>
+	</footerlinks>
+</repo>
